@@ -10,7 +10,7 @@ Sisältöjä voidaan lisätä tänne. Sisältö voi olla myös linkki johonkin t
 
 [Tämä sivusto toimii GitHubissa](https://github.com/digiope/digiope.github.io), joka on avoimille projekteille maksuton versionhallinta-työkalu. Sinun ei tarvitse tietää järjestelmän kaikista teknisistä ominaisuuksista. Alla lyhyt ohje tietoiskujen päivittämiseksi
 
-1) luo itsellesi github tunnus, 2) kopio sivusto itsellesi ([fork](https://help.github.com/en/github/getting-started-with-github/fork-a-repo)), 3) muokkaa sisältöä ja 4) lähetä muutospyyntö alkuperäiselle ([pull reques](https://help.github.com/en/github/collaborating-with-issues-and-pull-requests/creating-a-pull-request-from-a-fork)
+1) luo itsellesi github tunnus, 2) kopio sivusto itsellesi ([fork](https://help.github.com/en/github/getting-started-with-github/fork-a-repo)), 3) muokkaa sisältöä ja 4) lähetä muutospyyntö alkuperäiselle ([pull reques](https://help.github.com/en/github/collaborating-with-issues-and-pull-requests/creating-a-pull-request-from-a-fork))
 
 ### Markdown
 
