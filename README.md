@@ -1,12 +1,21 @@
-## Welcome to GitHub Pages
+## Verkko-opetuksen tietoiskuja
 
-You can use the [editor on GitHub](https://github.com/digiope/digiope.github.io/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+Tänne kerätään lyhyitä tietoiskuja verkko-opetukseen liittyen. Ellei toisin mainita, materiaali on julkaistu [Creative Commons Nimeä 4.0](https://creativecommons.org/licenses/by/4.0/deed.fi) lisenssillä.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+## Tietoiskut
+
+Sisältöjä voidaan lisätä tänne. Sisältö voi olla myös linkki johonkin toiseen ympäristöön (esim YouTube). Ulkoisten linkkien tapauksessa kannattaa kirjoittaa lyhyt kuvaus siitä, mitä tietoisku käsittelee.
+
+## Ohjeita 
+
+Tämä sivusto toimii GitHubissa, joka on avoimille projekteille maksuton versionhallinta-ympäristö. Sinun ei tarvitse tietää järjestelmän kaikista teknisistä ominaisuuksista. Alla lyhyt ohje tietoiskujen päivittämiseksi
+
+1) luo itsellesi github tunnus, 2) kopio sivusto itsellesi ([fork](https://help.github.com/en/github/getting-started-with-github/fork-a-repo)), 3) muokkaa sisältöä ja 4) lähetä muutospyyntö alkuperäiselle ([pull reques](https://help.github.com/en/github/collaborating-with-issues-and-pull-requests/creating-a-pull-request-from-a-fork))
+
 
 ### Markdown
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+Sisällön muokkaamiseen käytetään yksinkertaista Markdown-muotoilukieltä. Alla muutamia esimerkkejä, miten eri asioita voidaan ilmaista Markdownilla:
 
 ```markdown
 Syntax highlighted code block
@@ -26,12 +35,5 @@ Syntax highlighted code block
 [Link](url) and ![Image](src)
 ```
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+Lisätietoa [GitHubin käyttämästä Markdownin versiosta](https://guides.github.com/features/mastering-markdown/).
 
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/digiope/digiope.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
