@@ -6,6 +6,11 @@ Tänne kerätään lyhyitä tietoiskuja verkko-opetukseen liittyen. Ellei toisin
 
 Sisältöjä voidaan lisätä tänne. Sisältö voi olla myös linkki johonkin toiseen ympäristöön (esim YouTube). Ulkoisten linkkien tapauksessa kannattaa kirjoittaa lyhyt kuvaus siitä, mitä tietoisku käsittelee.
 
+### 5 vinkkiä lähiopetuksesta verkko-opetukseen siirtymiseen
+Tässä Prezi-esityksessä käydään läpi viisi kohtaa, jotka on hyvä huomioida siirryttäessä lähiopetuksesta verkko-opetukseen.
+[https://prezi.com/hwyrtcvl7sau/?utm_campaign=share&utm_medium=copy](https://prezi.com/hwyrtcvl7sau/?utm_campaign=share&utm_medium=copy)
+
+
 ## Ohjeita 
 
 [Tämä sivusto toimii GitHubissa](https://github.com/digiope/digiope.github.io), joka on avoimille projekteille maksuton versionhallinta-työkalu. Sinun ei tarvitse tietää järjestelmän kaikista teknisistä ominaisuuksista. Alla lyhyt ohje tietoiskujen päivittämiseksi
