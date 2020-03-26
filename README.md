@@ -8,7 +8,7 @@ Sisältöjä voidaan lisätä tänne. Sisältö voi olla myös linkki johonkin t
 
 ### 5 vinkkiä lähiopetuksesta verkko-opetukseen siirtymiseen
 Tässä Prezi-esityksessä käydään läpi viisi kohtaa, jotka on hyvä huomioida siirryttäessä lähiopetuksesta verkko-opetukseen.
-[https://prezi.com/hwyrtcvl7sau/?utm_campaign=share&utm_medium=copy](https://prezi.com/hwyrtcvl7sau/?utm_campaign=share&utm_medium=copy){target="_blank"}
+[https://prezi.com/hwyrtcvl7sau/?utm_campaign=share&utm_medium=copy](https://prezi.com/hwyrtcvl7sau/?utm_campaign=share&utm_medium=copy){:target="_blank"}
 
 
 ## Ohjeita 
